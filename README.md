@@ -1,4 +1,4 @@
-### I am a PhD student in the Department of Statistics at Texas A&M University. My research focuses on applying spatio-temporal modeling and Bayesian statistics to real-world data science problems.
+### Hi 👋 I am a PhD student in the Department of Statistics at Texas A&M University. My research focuses on applying spatio-temporal modeling and Bayesian statistics to real-world data science problems.
 
 <!--
 **aajb99/aajb99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
